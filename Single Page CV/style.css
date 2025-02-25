@@ -1,0 +1,22 @@
+body {
+  font-family: Poppins;
+}
+.container {
+  margin: 2rem 6rem;
+  padding: 6rem;
+  display: inline-block;
+  border: 2px solid #000;
+}
+.first p {
+  font-weight: 500;
+}
+.first {
+  margin-bottom: 2.2rem;
+  line-height: 1rem;
+}
+.green {
+  color: green;
+}
+.blue {
+  color: blue;
+}
